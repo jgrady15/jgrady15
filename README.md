@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on ...
+🔭 I’m currently the Lead React Developer Intern for a startup called Biscuit Beacon. [You can find their website here.](https://www.biscuitbeacon.com/)
 
 <!--
 **jgrady15/jgrady15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently a Lead Software Engineer Intern for a startup called Biscuit Beacon. [You can find their website here.](https://www.biscuitbeacon.com/)
+🔭 I’m currently pursuing my Master's in Computer Science at Georgia Tech. If you're looking to reach out to contact me or just interested in learning more about me, you can reach me through gradyjonathan55@gmail.com or my [LinkedIn](https://www.linkedin.com/in/jgrady15).
 
 <!--
 **jgrady15/jgrady15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
